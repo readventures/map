@@ -190,6 +190,27 @@
  "nextlayerid":14,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Fuer alle,  die lieber r\u00fcckw\u00e4rts als vorw\u00e4rts entwickeln."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/readventures\/readventures.github.io"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Reverse Engineering Adventures"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="160" height="90" tilewidth="32" tileheight="32" infinite="0" nextlayerid="14" nextobjectid="1">
+ <properties>
+  <property name="mapCopyright" value="CC0"/>
+  <property name="mapDescription" value="Fuer alle,  die lieber rückwärts als vorwärts entwickeln."/>
+  <property name="mapLink" value="https://github.com/readventures/readventures.github.io"/>
+  <property name="mapName" value="Reverse Engineering Adventures"/>
+ </properties>
  <tileset firstgid="1" name="binja" tilewidth="32" tileheight="32" tilecount="640" columns="32">
   <properties>
    <property name="tilesetCopyright" value="CC0"/>
