@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/cert\/klinik_23#startReadventures"
+                 "value":"world:\/\/cert\/klinik_23.json#startReadventures"
                 }],
          "type":"tilelayer",
          "visible":true,
