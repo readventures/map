@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":90,
  "infinite":false,
  "layers":[
@@ -172,9 +179,24 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#FF00FF\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"reverse-engineering-adventures"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,7 +270,7 @@
          "value":"Reverse Engineering Adventures"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -1873,6 +1895,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":160
 }
