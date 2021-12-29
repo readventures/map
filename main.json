@@ -179,6 +179,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"%6a%69%74%73%69%49%6e%74%65%72%66%61%63%65%43%6f%6e%66%69%67",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#FF00FF\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"reverse-engineering-adventures"
