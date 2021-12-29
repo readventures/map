@@ -179,16 +179,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#FF00FF\" }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"reverse-engineering-adventures"
